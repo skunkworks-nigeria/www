@@ -1,4 +1,3 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
-
 Sitemap: https://skunkworks-nigeria.github.io/www/sitemap.xml
